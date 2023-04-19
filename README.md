@@ -16,3 +16,9 @@ All the training images for training the model is located under directory `Image
 
 
 # References
+
+\[1\] http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf
+
+\[2\] https://www.kaggle.com/alamson/safebooru/download
+
+\[3\] http://images.cocodataset.org/annotations/annotations_trainval2017.zip
